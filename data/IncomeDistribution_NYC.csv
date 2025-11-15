@@ -1,0 +1,135 @@
+﻿Geography,Name,Level,year,less_than_20_000,"20_001 _
+40_000","40_001 _
+60_000","60_001 _
+100_000","100_001 _
+250_000",more_than_250_000
+NYC,New York City,City,2000,0.16,0.15,0.14,0.21,0.27,0.07
+NYC,New York City,City,2018_2022,0.14,0.14,0.12,0.19,0.30,0.11
+BX,The Bronx,Boro,2000,0.24,0.17,0.16,0.21,0.20,0.02
+BX,The Bronx,Boro,2018_2022,0.24,0.19,0.16,0.19,0.20,0.03
+BK,Brooklyn,Boro,2000,0.20,0.16,0.15,0.21,0.24,0.04
+BK,Brooklyn,Boro,2018_2022,0.15,0.14,0.12,0.19,0.30,0.10
+MN,Manhattan,Boro,2000,0.14,0.12,0.12,0.19,0.27,0.16
+MN,Manhattan,Boro,2018_2022,0.14,0.11,0.09,0.15,0.30,0.21
+QN,Queens,Boro,2000,0.11,0.14,0.14,0.24,0.32,0.05
+QN,Queens,Boro,2018_2022,0.10,0.14,0.12,0.22,0.35,0.08
+SI,Staten Island,Boro,2000,0.09,0.11,0.11,0.21,0.40,0.08
+SI,Staten Island,Boro,2018_2022,0.09,0.11,0.10,0.21,0.40,0.10
+BX 01,Mott Haven/Melrose,Community District,2000,0.37,0.22,0.15,0.16,0.10,0.01
+BX 01,Mott Haven/Melrose,Community District,2018_2022,0.35,0.22,0.15,0.12,0.14,0.02
+BX 02,Hunts Point/Longwood,Community District,2000,0.37,0.22,0.15,0.16,0.10,0.01
+BX 02,Hunts Point/Longwood,Community District,2018_2022,0.35,0.22,0.15,0.12,0.14,0.02
+BX 03,Morrisania/Crotona,Community District,2000,0.36,0.21,0.17,0.15,0.10,0.01
+BX 03,Morrisania/Crotona,Community District,2018_2022,0.33,0.22,0.17,0.16,0.11,0.01
+BX 04,Highbridge/Concourse,Community District,2000,0.30,0.19,0.18,0.21,0.11,0.01
+BX 04,Highbridge/Concourse,Community District,2018_2022,0.27,0.19,0.18,0.21,0.14,0.02
+BX 05,Fordham/University Heights,Community District,2000,0.33,0.19,0.15,0.20,0.12,0.01
+BX 05,Fordham/University Heights,Community District,2018_2022,0.29,0.19,0.17,0.21,0.13,0.01
+BX 06,Belmont/East Tremont,Community District,2000,0.36,0.21,0.17,0.15,0.10,0.01
+BX 06,Belmont/East Tremont,Community District,2018_2022,0.33,0.22,0.17,0.16,0.11,0.01
+BX 07,Kingsbridge Heights/Bedford,Community District,2000,0.25,0.18,0.18,0.21,0.17,0.02
+BX 07,Kingsbridge Heights/Bedford,Community District,2018_2022,0.28,0.20,0.16,0.19,0.17,0.01
+BX 08,Riverdale/Fieldston,Community District,2000,0.13,0.14,0.13,0.23,0.30,0.07
+BX 08,Riverdale/Fieldston,Community District,2018_2022,0.13,0.15,0.15,0.19,0.31,0.08
+BX 09,Parkchester/Soundview,Community District,2000,0.23,0.17,0.17,0.22,0.20,0.01
+BX 09,Parkchester/Soundview,Community District,2018_2022,0.22,0.19,0.15,0.19,0.22,0.03
+BX 10,Throgs Neck/Co_op City,Community District,2000,0.12,0.14,0.15,0.23,0.34,0.04
+BX 10,Throgs Neck/Co_op City,Community District,2018_2022,0.14,0.16,0.15,0.21,0.30,0.04
+BX 11,Morris Park/Bronxdale,Community District,2000,0.17,0.16,0.17,0.21,0.27,0.03
+BX 11,Morris Park/Bronxdale,Community District,2018_2022,0.15,0.16,0.15,0.23,0.28,0.04
+BX 12,Williamsbridge/Baychester,Community District,2000,0.16,0.15,0.16,0.23,0.28,0.03
+BX 12,Williamsbridge/Baychester,Community District,2018_2022,0.19,0.16,0.12,0.21,0.27,0.05
+BK 01,Greenpoint/Williamsburg,Community District,2000,0.23,0.21,0.15,0.20,0.19,0.02
+BK 01,Greenpoint/Williamsburg,Community District,2018_2022,0.12,0.12,0.08,0.17,0.35,0.17
+BK 02,Fort Greene/Brooklyn Heights,Community District,2000,0.16,0.12,0.14,0.21,0.27,0.10
+BK 02,Fort Greene/Brooklyn Heights,Community District,2018_2022,0.10,0.08,0.08,0.13,0.35,0.26
+BK 03,Bedford Stuyvesant,Community District,2000,0.32,0.18,0.16,0.17,0.16,0.02
+BK 03,Bedford Stuyvesant,Community District,2018_2022,0.17,0.15,0.12,0.19,0.29,0.08
+BK 04,Bushwick,Community District,2000,0.27,0.23,0.17,0.18,0.14,0.01
+BK 04,Bushwick,Community District,2018_2022,0.17,0.13,0.10,0.22,0.33,0.05
+BK 05,East New York/Starrett City,Community District,2000,0.25,0.18,0.17,0.20,0.18,0.02
+BK 05,East New York/Starrett City,Community District,2018_2022,0.19,0.19,0.15,0.22,0.23,0.03
+BK 06,Park Slope/Carroll Gardens,Community District,2000,0.12,0.09,0.11,0.21,0.35,0.12
+BK 06,Park Slope/Carroll Gardens,Community District,2018_2022,0.08,0.06,0.06,0.12,0.38,0.30
+BK 07,Sunset Park,Community District,2000,0.17,0.18,0.15,0.23,0.23,0.03
+BK 07,Sunset Park,Community District,2018_2022,0.11,0.15,0.14,0.22,0.30,0.09
+BK 08,Crown Heights/Prospect Heights,Community District,2000,0.22,0.17,0.17,0.21,0.20,0.03
+BK 08,Crown Heights/Prospect Heights,Community District,2018_2022,0.15,0.12,0.12,0.17,0.32,0.12
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2000,0.19,0.17,0.19,0.21,0.22,0.02
+BK 09,South Crown Heights/Lefferts Gardens,Community District,2018_2022,0.15,0.14,0.13,0.22,0.30,0.06
+BK 10,Bay Ridge/Dyker Heights,Community District,2000,0.11,0.14,0.14,0.23,0.31,0.07
+BK 10,Bay Ridge/Dyker Heights,Community District,2018_2022,0.10,0.13,0.12,0.21,0.34,0.10
+BK 11,Bensonhurst,Community District,2000,0.19,0.17,0.14,0.21,0.26,0.03
+BK 11,Bensonhurst,Community District,2018_2022,0.15,0.15,0.16,0.20,0.29,0.05
+BK 12,Borough Park,Community District,2000,0.21,0.18,0.13,0.20,0.24,0.04
+BK 12,Borough Park,Community District,2018_2022,0.14,0.19,0.15,0.20,0.25,0.06
+BK 13,Coney Island,Community District,2000,0.29,0.18,0.15,0.18,0.18,0.02
+BK 13,Coney Island,Community District,2018_2022,0.25,0.19,0.14,0.17,0.21,0.04
+BK 14,Flatbush/Midwood,Community District,2000,0.19,0.16,0.15,0.23,0.23,0.05
+BK 14,Flatbush/Midwood,Community District,2018_2022,0.13,0.15,0.12,0.22,0.30,0.08
+BK 15,Sheepshead Bay,Community District,2000,0.17,0.15,0.14,0.20,0.29,0.05
+BK 15,Sheepshead Bay,Community District,2018_2022,0.15,0.14,0.13,0.19,0.30,0.09
+BK 16,Brownsville,Community District,2000,0.32,0.21,0.16,0.18,0.12,0.01
+BK 16,Brownsville,Community District,2018_2022,0.28,0.20,0.14,0.19,0.18,0.02
+BK 17,East Flatbush,Community District,2000,0.14,0.17,0.18,0.24,0.25,0.03
+BK 17,East Flatbush,Community District,2018_2022,0.14,0.15,0.15,0.23,0.29,0.05
+BK 18,Flatlands/Canarsie,Community District,2000,0.10,0.11,0.14,0.22,0.38,0.05
+BK 18,Flatlands/Canarsie,Community District,2018_2022,0.10,0.14,0.12,0.20,0.36,0.08
+MN 01,Financial District,Community District,2000,0.08,0.09,0.10,0.17,0.35,0.23
+MN 01,Financial District,Community District,2018_2022,0.06,0.05,0.06,0.12,0.35,0.36
+MN 02,Greenwich Village/Soho,Community District,2000,0.08,0.09,0.10,0.17,0.35,0.23
+MN 02,Greenwich Village/Soho,Community District,2018_2022,0.06,0.05,0.06,0.12,0.35,0.36
+MN 03,Lower East Side/Chinatown,Community District,2000,0.23,0.20,0.14,0.21,0.18,0.05
+MN 03,Lower East Side/Chinatown,Community District,2018_2022,0.24,0.15,0.10,0.16,0.24,0.10
+MN 04,Clinton/Chelsea,Community District,2000,0.11,0.11,0.10,0.20,0.31,0.17
+MN 04,Clinton/Chelsea,Community District,2018_2022,0.11,0.11,0.09,0.13,0.33,0.24
+MN 05,Midtown,Community District,2000,0.11,0.11,0.10,0.20,0.31,0.17
+MN 05,Midtown,Community District,2018_2022,0.11,0.11,0.09,0.13,0.33,0.24
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2000,0.06,0.07,0.10,0.18,0.38,0.21
+MN 06,Stuyvesant Town/Turtle Bay,Community District,2018_2022,0.08,0.08,0.05,0.12,0.38,0.29
+MN 07,Upper West Side,Community District,2000,0.09,0.09,0.10,0.17,0.32,0.24
+MN 07,Upper West Side,Community District,2018_2022,0.09,0.07,0.06,0.13,0.31,0.33
+MN 08,Upper East Side,Community District,2000,0.06,0.07,0.08,0.17,0.34,0.29
+MN 08,Upper East Side,Community District,2018_2022,0.06,0.08,0.06,0.15,0.34,0.31
+MN 09,Morningside Heights/Hamilton,Community District,2000,0.23,0.17,0.14,0.21,0.20,0.06
+MN 09,Morningside Heights/Hamilton,Community District,2018_2022,0.19,0.15,0.12,0.16,0.26,0.12
+MN 10,Central Harlem,Community District,2000,0.32,0.20,0.16,0.17,0.13,0.02
+MN 10,Central Harlem,Community District,2018_2022,0.22,0.15,0.13,0.19,0.24,0.08
+MN 11,East Harlem,Community District,2000,0.31,0.18,0.16,0.18,0.14,0.03
+MN 11,East Harlem,Community District,2018_2022,0.31,0.18,0.11,0.16,0.17,0.06
+MN 12,Washington Heights/Inwood,Community District,2000,0.21,0.18,0.16,0.24,0.19,0.03
+MN 12,Washington Heights/Inwood,Community District,2018_2022,0.17,0.16,0.14,0.22,0.27,0.05
+QN 01,Astoria,Community District,2000,0.15,0.16,0.16,0.23,0.27,0.03
+QN 01,Astoria,Community District,2018_2022,0.11,0.13,0.10,0.21,0.37,0.08
+QN 02,Woodside/Sunnyside,Community District,2000,0.10,0.17,0.15,0.27,0.29,0.03
+QN 02,Woodside/Sunnyside,Community District,2018_2022,0.06,0.14,0.12,0.22,0.35,0.10
+QN 03,Jackson Heights,Community District,2000,0.12,0.18,0.15,0.26,0.27,0.03
+QN 03,Jackson Heights,Community District,2018_2022,0.10,0.17,0.14,0.24,0.31,0.05
+QN 04,Elmhurst/Corona,Community District,2000,0.13,0.16,0.18,0.24,0.27,0.03
+QN 04,Elmhurst/Corona,Community District,2018_2022,0.11,0.18,0.16,0.26,0.25,0.04
+QN 05,Ridgewood/Maspeth,Community District,2000,0.11,0.15,0.15,0.25,0.30,0.04
+QN 05,Ridgewood/Maspeth,Community District,2018_2022,0.08,0.12,0.13,0.23,0.37,0.07
+QN 06,Rego Park/Forest Hills,Community District,2000,0.11,0.13,0.11,0.23,0.34,0.08
+QN 06,Rego Park/Forest Hills,Community District,2018_2022,0.09,0.11,0.10,0.19,0.40,0.12
+QN 07,Flushing/Whitestone,Community District,2000,0.09,0.14,0.14,0.24,0.33,0.06
+QN 07,Flushing/Whitestone,Community District,2018_2022,0.11,0.18,0.14,0.21,0.30,0.06
+QN 08,Hillcrest/Fresh Meadows,Community District,2000,0.09,0.12,0.12,0.26,0.34,0.07
+QN 08,Hillcrest/Fresh Meadows,Community District,2018_2022,0.10,0.15,0.12,0.20,0.37,0.07
+QN 09,Kew Gardens/Woodhaven,Community District,2000,0.10,0.14,0.15,0.24,0.32,0.04
+QN 09,Kew Gardens/Woodhaven,Community District,2018_2022,0.08,0.13,0.13,0.24,0.35,0.08
+QN 10,South Ozone Park/Howard Beach,Community District,2000,0.08,0.13,0.14,0.24,0.38,0.04
+QN 10,South Ozone Park/Howard Beach,Community District,2018_2022,0.09,0.12,0.11,0.20,0.40,0.08
+QN 11,Bayside/Little Neck,Community District,2000,0.06,0.11,0.11,0.22,0.41,0.09
+QN 11,Bayside/Little Neck,Community District,2018_2022,0.07,0.10,0.11,0.21,0.41,0.10
+QN 12,Jamaica/Hollis,Community District,2000,0.12,0.14,0.17,0.24,0.30,0.03
+QN 12,Jamaica/Hollis,Community District,2018_2022,0.11,0.14,0.13,0.25,0.31,0.06
+QN 13,Queens Village,Community District,2000,0.05,0.10,0.12,0.23,0.44,0.06
+QN 13,Queens Village,Community District,2018_2022,0.06,0.09,0.11,0.20,0.44,0.09
+QN 14,Rockaway/Broad Channel,Community District,2000,0.20,0.15,0.13,0.23,0.25,0.04
+QN 14,Rockaway/Broad Channel,Community District,2018_2022,0.18,0.15,0.13,0.18,0.29,0.08
+SI 01,St. George/Stapleton,Community District,2000,0.13,0.13,0.12,0.22,0.34,0.06
+SI 01,St. George/Stapleton,Community District,2018_2022,0.11,0.11,0.11,0.21,0.37,0.09
+SI 02,South Beach/Willowbrook,Community District,2000,0.08,0.11,0.11,0.21,0.40,0.09
+SI 02,South Beach/Willowbrook,Community District,2018_2022,0.07,0.11,0.12,0.21,0.40,0.10
+SI 03,Tottenville/Great Kills,Community District,2000,0.05,0.08,0.11,0.21,0.46,0.10
+SI 03,Tottenville/Great Kills,Community District,2018_2022,0.07,0.10,0.08,0.20,0.43,0.12
